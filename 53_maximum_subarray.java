@@ -6,6 +6,8 @@ public class Main {
 
         int[] nums = new int[]{5,4,-1,7,8};
 
+        //Divide & Conquer solution.
+        //Explaination: https://www.youtube.com/watch?v=yBCzO0FpsVc
         System.out.println("Maximum Sum from SubArray: "+maxSubArray(nums));
     }
 
